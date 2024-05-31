@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Candidate, University of Western Australia, School of Physics, Mathematics & Computing
 
 profile:
   align: right
